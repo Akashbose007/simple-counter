@@ -1,0 +1,39 @@
+#container{
+   
+    position: absolute;
+    border-radius: 20px;
+    top:50%;
+    left:50%;
+    transform: translate(-50%,-50%);
+    width: 400px;
+    height: 200px;
+    padding: 30px;
+    text-align: center;
+    border: 1px solid black;
+    
+}
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-color: thistle;
+
+
+}
+#answer{
+    font-size: 30px;
+}
+
+.button-container{
+    margin-top: 30px;
+}
+h1{
+    font-size: 60px;
+}
+button{
+    font-size: 20px;
+    padding: 2px;
+    border-radius: 10px;
+    font-weight: bold;
+}
